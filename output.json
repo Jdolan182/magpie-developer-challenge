@@ -1,0 +1,224 @@
+[{"title":"iPhone 11 Pro","price":"\u00a3799.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/iphone-11-pro.png","capacityMB":64000,"colour":"Green","availabilityText":"Availability: Out of Stock","isAvailable":false,"shippingText":"","shippingData":""},{"title":"iPhone 11","price":"\u00a3699.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/iphone-11.png","capacityMB":64000,"colour":"Black","availabilityText":"Availability: In Stock at B90 4SB","isAvailable":true,"shippingText":"Unavailable for delivery","shippingData":""},{"title":"iPhone 11","price":"\u00a3699.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/iphone-11.png","capacityMB":64000,"colour":"White","availabilityText":"Availability: In Stock at B90 4SB","isAvailable":true,"shippingText":"Unavailable for delivery","shippingData":""},{"title":"iPhone 12 Pro Max","price":"\u00a31099.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/iphone-12-pro.png","capacityMB":128000,"colour":"Sky Blue","availabilityText":"Availability: In Stock Online","isAvailable":true,"shippingText":"Delivery by 3 Dec 2024","shippingData":"2024-12-03"},{"title":"Samsung Galaxy S20","price":"\u00a3849.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/s-20.png","capacityMB":128000,"colour":"Grey","availabilityText":"Availability: In Stock","isAvailable":true,"shippingText":"Available on 2024-12-09","shippingData":""},{"title":"Huawei P30 Pro","price":"\u00a3699.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/p-30.png","capacityMB":128000,"colour":"Black","availabilityText":"Availability: In Stock","isAvailable":true,"shippingText":"Free Shipping","shippingData":""},{"title":"Nokia 3310","price":"\u00a399.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/nokia-3310.png","capacityMB":"100","colour":"Orange","availabilityText":"Availability: Out of Stock","isAvailable":false,"shippingText":"Delivery from Wednesday 1st Jan 2025","shippingData":""},{"title":"Nokia 3310","price":"\u00a399.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/nokia-3310.png","capacityMB":"100","colour":"Yellow","availabilityText":"Availability: Out of Stock","isAvailable":false,"shippingText":"Delivery from Wednesday 1st Jan 2025","shippingData":""},{"title":"Nokia 3310","price":"\u00a399.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/nokia-3310.png","capacityMB":"100","colour":"Grey","availabilityText":"Availability: Out of Stock","isAvailable":false,"shippingText":"Delivery from Wednesday 1st Jan 2025","shippingData":""},{"title":"Nokia 3310","price":"\u00a399.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/nokia-3310.png","capacityMB":"100","colour":"Blue","availabilityText":"Availability: Out of Stock","isAvailable":false,"shippingText":"Delivery from Wednesday 1st Jan 2025","shippingData":""},{"title":"Google Pixel 5","price":"\u00a3749.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/pixel-5.png","capacityMB":256000,"colour":"Black","availabilityText":"Availability: In Stock","isAvailable":true,"shippingText":"Delivers Monday 2nd Dec 2024","shippingData":""},{"title":"Sony Xperia 10","price":"\u00a3449.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/sony-xperia.png","capacityMB":32000,"colour":"Black","availabilityText":"Availability: In Stock","isAvailable":true,"shippingText":"Free Shipping","shippingData":""},{"title":"Samsung Galaxy Flip","price":"\u00a31699.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/flip.png","capacityMB":128000,"colour":"Slate Grey","availabilityText":"Availability: Out of Stock","isAvailable":false,"shippingText":"","shippingData":""},{"title":"Samsung Galaxy S20","price":"\u00a3849.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/s-20.png","capacityMB":128000,"colour":"Black","availabilityText":"Availability: In Stock","isAvailable":true,"shippingText":"Free Delivery 2024-12-03","shippingData":""},{"title":"Oppo Reno4 Pro 5G","price":"\u00a3749.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/oppo-reno.png","capacityMB":64000,"colour":"Blue","availabilityText":"Availability: In Stock","isAvailable":true,"shippingText":"Free Delivery","shippingData":""},{"title":"Huawei P Smart","price":"\u00a3399.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/huawei-p-smart.png","capacityMB":64000,"colour":"Black","availabilityText":"Availability: In Stock","isAvailable":true,"shippingText":"Free Delivery tomorrow","shippingData":""},{"title":"Google Pixel 4","price":"\u00a3499.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/pixel-5.png","capacityMB":64000,"colour":"Black","availabilityText":"Availability: In Stock","isAvailable":true,"shippingText":"Delivers 2 Dec 2024","shippingData":"2024-12-02"},{"title":"Google Pixel 4","price":"\u00a3499.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/pixel-5.png","capacityMB":64000,"colour":"White","availabilityText":"Availability: In Stock","isAvailable":true,"shippingText":"Delivers 2 Dec 2024","shippingData":"2024-12-02"},{"title":"LG K42","price":"\u00a3499.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/lg-k42.png","capacityMB":128000,"colour":"Black","availabilityText":"Availability: In Stock","isAvailable":true,"shippingText":"Order within 6 hours and have it 2024-12-04","shippingData":""},{"title":"Samsung Galaxy S20","price":"\u00a3799.99","imageUrl":"https:\/\/www.magpiehq.com\/images\/s-20.png","capacityMB":64000,"colour":"Grey","availabilityText":"Availability: In Stock","isAvailable":true,"shippingText":"Free Delivery 03 Dec 2024","shippingData":"2024-12-03"}]
+
+[
+    {
+      "title": "iPhone 11 Pro",
+      "price": "£799.99",
+      "imageUrl": "https://www.magpiehq.com/images/iphone-11-pro.png",
+      "capacityMB": 64000,
+      "colour": "Green",
+      "availabilityText": "Availability: Out of Stock",
+      "isAvailable": false,
+      "shippingText": "",
+      "shippingData": ""
+    },
+    {
+      "title": "iPhone 11",
+      "price": "£699.99",
+      "imageUrl": "https://www.magpiehq.com/images/iphone-11.png",
+      "capacityMB": 64000,
+      "colour": "Black",
+      "availabilityText": "Availability: In Stock at B90 4SB",
+      "isAvailable": true,
+      "shippingText": "Unavailable for delivery",
+      "shippingData": ""
+    },
+    {
+      "title": "iPhone 11",
+      "price": "£699.99",
+      "imageUrl": "https://www.magpiehq.com/images/iphone-11.png",
+      "capacityMB": 64000,
+      "colour": "White",
+      "availabilityText": "Availability: In Stock at B90 4SB",
+      "isAvailable": true,
+      "shippingText": "Unavailable for delivery",
+      "shippingData": ""
+    },
+    {
+      "title": "iPhone 12 Pro Max",
+      "price": "£1099.99",
+      "imageUrl": "https://www.magpiehq.com/images/iphone-12-pro.png",
+      "capacityMB": 128000,
+      "colour": "Sky Blue",
+      "availabilityText": "Availability: In Stock Online",
+      "isAvailable": true,
+      "shippingText": "Delivery by 3 Dec 2024",
+      "shippingData": "2024-12-03"
+    },
+    {
+      "title": "Samsung Galaxy S20",
+      "price": "£849.99",
+      "imageUrl": "https://www.magpiehq.com/images/s-20.png",
+      "capacityMB": 128000,
+      "colour": "Grey",
+      "availabilityText": "Availability: In Stock",
+      "isAvailable": true,
+      "shippingText": "Available on 2024-12-09",
+      "shippingData": ""
+    },
+    {
+      "title": "Huawei P30 Pro",
+      "price": "£699.99",
+      "imageUrl": "https://www.magpiehq.com/images/p-30.png",
+      "capacityMB": 128000,
+      "colour": "Black",
+      "availabilityText": "Availability: In Stock",
+      "isAvailable": true,
+      "shippingText": "Free Shipping",
+      "shippingData": ""
+    },
+    {
+      "title": "Nokia 3310",
+      "price": "£99.99",
+      "imageUrl": "https://www.magpiehq.com/images/nokia-3310.png",
+      "capacityMB": "100",
+      "colour": "Orange",
+      "availabilityText": "Availability: Out of Stock",
+      "isAvailable": false,
+      "shippingText": "Delivery from Wednesday 1st Jan 2025",
+      "shippingData": ""
+    },
+    {
+      "title": "Nokia 3310",
+      "price": "£99.99",
+      "imageUrl": "https://www.magpiehq.com/images/nokia-3310.png",
+      "capacityMB": "100",
+      "colour": "Yellow",
+      "availabilityText": "Availability: Out of Stock",
+      "isAvailable": false,
+      "shippingText": "Delivery from Wednesday 1st Jan 2025",
+      "shippingData": ""
+    },
+    {
+      "title": "Nokia 3310",
+      "price": "£99.99",
+      "imageUrl": "https://www.magpiehq.com/images/nokia-3310.png",
+      "capacityMB": "100",
+      "colour": "Grey",
+      "availabilityText": "Availability: Out of Stock",
+      "isAvailable": false,
+      "shippingText": "Delivery from Wednesday 1st Jan 2025",
+      "shippingData": ""
+    },
+    {
+      "title": "Nokia 3310",
+      "price": "£99.99",
+      "imageUrl": "https://www.magpiehq.com/images/nokia-3310.png",
+      "capacityMB": "100",
+      "colour": "Blue",
+      "availabilityText": "Availability: Out of Stock",
+      "isAvailable": false,
+      "shippingText": "Delivery from Wednesday 1st Jan 2025",
+      "shippingData": ""
+    },
+    {
+      "title": "Google Pixel 5",
+      "price": "£749.99",
+      "imageUrl": "https://www.magpiehq.com/images/pixel-5.png",
+      "capacityMB": 256000,
+      "colour": "Black",
+      "availabilityText": "Availability: In Stock",
+      "isAvailable": true,
+      "shippingText": "Delivers Monday 2nd Dec 2024",
+      "shippingData": ""
+    },
+    {
+      "title": "Sony Xperia 10",
+      "price": "£449.99",
+      "imageUrl": "https://www.magpiehq.com/images/sony-xperia.png",
+      "capacityMB": 32000,
+      "colour": "Black",
+      "availabilityText": "Availability: In Stock",
+      "isAvailable": true,
+      "shippingText": "Free Shipping",
+      "shippingData": ""
+    },
+    {
+      "title": "Samsung Galaxy Flip",
+      "price": "£1699.99",
+      "imageUrl": "https://www.magpiehq.com/images/flip.png",
+      "capacityMB": 128000,
+      "colour": "Slate Grey",
+      "availabilityText": "Availability: Out of Stock",
+      "isAvailable": false,
+      "shippingText": "",
+      "shippingData": ""
+    },
+    {
+      "title": "Samsung Galaxy S20",
+      "price": "£849.99",
+      "imageUrl": "https://www.magpiehq.com/images/s-20.png",
+      "capacityMB": 128000,
+      "colour": "Black",
+      "availabilityText": "Availability: In Stock",
+      "isAvailable": true,
+      "shippingText": "Free Delivery 2024-12-03",
+      "shippingData": ""
+    },
+    {
+      "title": "Oppo Reno4 Pro 5G",
+      "price": "£749.99",
+      "imageUrl": "https://www.magpiehq.com/images/oppo-reno.png",
+      "capacityMB": 64000,
+      "colour": "Blue",
+      "availabilityText": "Availability: In Stock",
+      "isAvailable": true,
+      "shippingText": "Free Delivery",
+      "shippingData": ""
+    },
+    {
+      "title": "Huawei P Smart",
+      "price": "£399.99",
+      "imageUrl": "https://www.magpiehq.com/images/huawei-p-smart.png",
+      "capacityMB": 64000,
+      "colour": "Black",
+      "availabilityText": "Availability: In Stock",
+      "isAvailable": true,
+      "shippingText": "Free Delivery tomorrow",
+      "shippingData": ""
+    },
+    {
+      "title": "Google Pixel 4",
+      "price": "£499.99",
+      "imageUrl": "https://www.magpiehq.com/images/pixel-5.png",
+      "capacityMB": 64000,
+      "colour": "Black",
+      "availabilityText": "Availability: In Stock",
+      "isAvailable": true,
+      "shippingText": "Delivers 2 Dec 2024",
+      "shippingData": "2024-12-02"
+    },
+    {
+      "title": "Google Pixel 4",
+      "price": "£499.99",
+      "imageUrl": "https://www.magpiehq.com/images/pixel-5.png",
+      "capacityMB": 64000,
+      "colour": "White",
+      "availabilityText": "Availability: In Stock",
+      "isAvailable": true,
+      "shippingText": "Delivers 2 Dec 2024",
+      "shippingData": "2024-12-02"
+    },
+    {
+      "title": "LG K42",
+      "price": "£499.99",
+      "imageUrl": "https://www.magpiehq.com/images/lg-k42.png",
+      "capacityMB": 128000,
+      "colour": "Black",
+      "availabilityText": "Availability: In Stock",
+      "isAvailable": true,
+      "shippingText": "Order within 6 hours and have it 2024-12-04",
+      "shippingData": ""
+    },
+    {
+      "title": "Samsung Galaxy S20",
+      "price": "£799.99",
+      "imageUrl": "https://www.magpiehq.com/images/s-20.png",
+      "capacityMB": 64000,
+      "colour": "Grey",
+      "availabilityText": "Availability: In Stock",
+      "isAvailable": true,
+      "shippingText": "Free Delivery 03 Dec 2024",
+      "shippingData": "2024-12-03"
+    }
+  ]
